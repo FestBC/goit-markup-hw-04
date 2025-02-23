@@ -416,3 +416,8 @@ img {
     justify-content: flex-start;
     gap: 16px;
 }
+
+.footer .social-list-link:hover,
+.footer .social-list-link:focus {
+    background-color: #31d0aa;
+}
